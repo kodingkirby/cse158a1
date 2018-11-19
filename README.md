@@ -25,3 +25,4 @@ jupyter notebook
 Now go to your browser and navigate to localhost:8000
 It will ask you for a token probably, which you'll find in the terminal window when you start jupyter
 
+sudo mount -t xfs /dev/nvme1n1 /data
